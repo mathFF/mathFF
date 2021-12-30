@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Filipe from @mathFF
-- 👀 I’m interested in ... math, tech, science and innovations
-- 🌱 I’m currently learning ... a lot
-- 💞️ I’m looking to collaborate on ... which is possible
+- 👀 I’m interested in math, tech, science and innovations.
+- 🌱 I’m currently learning a lot!
+- 💞️ I’m looking to collaborate on hich is possible :)
 - 📫 How to reach me ... 
 
 <!---
